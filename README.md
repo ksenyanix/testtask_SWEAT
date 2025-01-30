@@ -11,4 +11,4 @@ The dataset includes daily step counts of the users (2 weeks before and after th
 - steps_date - date of steps
 - steps - number of steps
 
-![alt text]([http://url/to/img.png](https://www.is.com/wp-content/uploads/2022/05/sweatcoin-q-and-a-feature-image-1.png))
+![alt text](https://www.is.com/wp-content/uploads/2022/05/sweatcoin-q-and-a-feature-image-1.png)
